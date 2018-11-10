@@ -5,7 +5,7 @@ public class LargeNumber2Input {
         Scanner a= new Scanner(System.in);
        System.out.print("Enter the first number:");
      int w= a. nextInt();
-       System.out.println("The frist numbmer is= "+w);
+       System.out.println("The first numbmer is= "+w);
        System.out.print("Enter the second number:");
      int q= a. nextInt();
        System.out.println("The second numbr is= "+q);
