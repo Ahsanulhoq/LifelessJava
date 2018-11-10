@@ -5,10 +5,10 @@ public class LargeNumber2Input {
         Scanner a= new Scanner(System.in);
        System.out.print("Enter the first number:");
      int w= a. nextInt();
-       System.out.println("The first numbmer is= "+w);
+       System.out.println("The first number is= "+w);
        System.out.print("Enter the second number:");
      int q= a. nextInt();
-       System.out.println("The second numbr is= "+q);
+       System.out.println("The second number is= "+q);
        System.out.println("The large number= "+ (w>q?w:q));
 
     }
